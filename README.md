@@ -26,7 +26,9 @@ Relaunch EDMC to initiate the plugin.
 
 ## Configuration
 **THIS IS CURRENTLY BROKEN**
+
 **On my PC the plugin will create a copy of the screenshot in the foilder I have set Steam to save screenshots to, and rename it correctly, but I have no idea how it knows, as the configuration to tell it is broken and I don't use the default steam location.**
+
 Go to `File/Settings -> Steamshot` and put in: 
 * the directory where Steam saves uncompressed screenshots
 * the directory where you want the converted screenshots to go
