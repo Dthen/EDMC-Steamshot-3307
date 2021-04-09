@@ -1,4 +1,5 @@
 # EDMC-Steamshot-3307
+This plugin's config doesn't work.
 A plugin for EDMC which detects an uncompressed screenshot from Steam, renames it with relevant information, and retains EDFX / Reshade effects.
 My attempt to learn how EDMC plugins work by reviving something which didn't work when I tried to use it.
 
